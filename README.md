@@ -23,9 +23,7 @@ The Contact Book allows users to manage their contacts efficiently. Users can pe
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd ContactBook-Python-MySQL
-
+   git https://github.com/GurnoorBagga17/ContactBook.git
 	2.	Install Dependencies
 Ensure you have Python installed. Install required packages:
 
