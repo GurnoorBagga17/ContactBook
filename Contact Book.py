@@ -25,7 +25,7 @@ def intro():
     print("{:^80s}".format("CONTACT"))
     print("{:^80s}".format("BOOK"))
     print("{:^80s}".format("PROJECT"))
-    print("{:^80s}".format("MADE BY: AJMANI PUBLIC SCHOOL"))
+    print("{:^80s}".format("MADE BY: GURNOOR BAGGA"))
     print("=" * 80)
     print()
     time.sleep(2)
